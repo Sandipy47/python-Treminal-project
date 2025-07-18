@@ -9,11 +9,12 @@ A simple **Car Store** built using Python and MySQL. This terminal-based applica
 ## 📖 Features
 
 - Add new cars to the store
-- View all cars with details (model, year, type, condition)
-- Update existing car information
-- Delete car records
-- Search for cars by name or type
+- View all cars with details (id, model, year, type, condition)
+- Search for cars by car id or type
 - Owner/Admin login system
+- User login system
+- book car system
+- view car system
 - User-friendly terminal interface
 
 ---
